@@ -2,6 +2,21 @@ body {
     background-color: rgba(247, 240, 240, 0.911);
     color: gold;
     
+    
+}
+
+.container {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.image  {
+    height: auto;
+    width: 300px;
+    border: gold 3px solid;
+    
+    
+    
 }
 
 a:link, li{
