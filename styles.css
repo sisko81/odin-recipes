@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(240, 232, 232);
+   background-color: gainsboro;
     color: gold;
     
     
@@ -36,3 +36,7 @@ a:link, li{
     padding: 20px ;
 }
 
+ .b {
+     background-color: gainsboro;
+     border: gold 1px solid;
+ }
