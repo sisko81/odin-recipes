@@ -1,16 +1,38 @@
+* {
+    
+    font-family: 'Courier New', Courier, monospace;
+}
 
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    font-size: 36px;
+    
+}
+
+.container-spaghetti {
+    background-color: rgb(185, 214, 228);
+    text-align: center;
+}
 
 
 img {
-    width: 25rem;
+    border: white 1px solid;
+    height: auto;
+    width: 360px;
 }
 
-footer, a:link {
-    background-color: gainsboro;
-    text-decoration: none;
+.ingredients {
     text-align: center;
-    margin-left: 24px;
-    margin-right: 24px;
-    padding: 5px;
 }
+
+.container-ingredients {
+    text-align: left;
+    
+    margin: auto;
+    width: 300px;
+    
+}
+
+
 
