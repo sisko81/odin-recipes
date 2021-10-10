@@ -43,14 +43,4 @@ a:link, li{
      border-radius: 10px;
  }
 
- .half-circle {
-     background-color: #fff;
-     border: white 5px solid;
-     border-radius: 100px;
-     
- }
-
- p {
-     border: steelblue 5px solid;
-     width: 33px;
- }
+ 
