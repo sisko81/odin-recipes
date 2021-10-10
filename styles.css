@@ -1,6 +1,6 @@
 body {
-   background-color: #fff;
-    color: gainsboro;
+   background-color: rgba(20, 160, 241, 0.548);
+    color: white;
     
     
 }
@@ -14,9 +14,9 @@ body {
 
 .image  {
     height: auto;
-    width: 300px;
-    border: cyan 1px solid;
-    border-radius: 10px;
+    width: 360px;
+    border: white 3px solid;
+    border-radius: 5px;
     
     
     
@@ -39,6 +39,18 @@ a:link, li{
 
  .b {
      background-color: rgb(252, 247, 227);
-     border: rgb(118, 156, 156) 1px solid;
+     border: white 5px solid;
      border-radius: 10px;
+ }
+
+ .half-circle {
+     background-color: #fff;
+     border: white 5px solid;
+     border-radius: 100px;
+     
+ }
+
+ p {
+     border: steelblue 5px solid;
+     width: 33px;
  }
