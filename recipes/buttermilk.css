@@ -1,12 +1,110 @@
-img {
-    width: 25rem;
+* {
+    
+    font-family: 'Courier New', Courier, monospace;
+    color: #000;
+    
 }
 
-footer, a:link {
-    background-color: gainsboro;
-    text-decoration: none;
+body {
+    color: #000;
+}
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    font-size: 36px;
+    color: white;
+    
+}
+
+.container-chicken {
+    background-color: rgb(185, 214, 228);
     text-align: center;
-    margin-left: 24px;
-    margin-right: 24px;
+    color: #fff;
+}
+
+
+img {
+    border: white 1px solid;
+    height: auto;
+    width: 360px;
+}
+
+.para-white {
+    color: #fff;
+}
+
+.ingredients {
+    text-align: center;
+    padding: 1px;
+    margin: 35px;
+    color: #000;
+}
+
+.container-ingredients {
+    text-align: left;
+    color: rgb(85, 108, 119);
+    font-weight: bolder;
+    margin: auto;
+    width: 300px;
+    
+}
+
+.directions {
+    text-align: center;
+    color: #fff;
+    background-color: rgb(185, 214, 228);
+    padding: 15px;
+    margin: 35px;
+}
+
+.container-directions {
+    text-align: center;
+    color: #fff;
+    background-color: rgb(185, 214, 228);
+}
+
+p {
     padding: 5px;
+}
+
+.container-nutrition {
+    text-align: center;
+    color: rgb(85, 108, 119);
+}
+
+.container-footer {
+    text-align: center;  
+    padding: 5px;
+    margin: 5px;
+    
+    
+}
+
+
+a:link {
+    text-decoration: none;
+    
+    border-radius: 5px;
+    width: 117px;
+    
+}
+
+button {
+    border-radius: 8px;
+}
+
+button :any-link  {
+    color:rgb(22, 168, 236);
+    background-color: white;
+    border: transparent;
+    border-radius: 15px;
+    
+    
+}
+
+button :hover {
+    background-color:rgb(185, 214, 228);
+    color: white;
+    
 }
