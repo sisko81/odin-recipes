@@ -48,9 +48,10 @@ a:link, li{
 
 body {
   margin: 0;
-  background:rgb(211, 188, 211) ;
+  background-color: #eee;
   font-family: Besley, serif;
 }
+
 
 .header {
   background: white;
@@ -97,7 +98,7 @@ body {
 
 .logo {
   color: rebeccapurple;
-  font-size: 32px;
+  font-size: 31px;
   font-weight: 900;
   font-style: italic;
 }
