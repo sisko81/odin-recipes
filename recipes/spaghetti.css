@@ -18,7 +18,7 @@ h1 {
 }
 
 .container-spaghetti {
-    background-color: rgb(185, 214, 228);
+    background-color: rebeccapurple;
     text-align: center;
     color: #fff;
 }
@@ -43,7 +43,7 @@ img {
 
 .container-ingredients {
     text-align: left;
-    color: rgb(85, 108, 119);
+    color: rebeccapurple;
     font-weight: bolder;
     margin: auto;
     width: 300px;
@@ -53,7 +53,7 @@ img {
 .directions {
     text-align: center;
     color: #fff;
-    background-color: rgb(185, 214, 228);
+    background-color: rebeccapurple;
     padding: 15px;
     margin: 35px;
 }
@@ -61,7 +61,7 @@ img {
 .container-directions {
     text-align: center;
     color: #fff;
-    background-color: rgb(185, 214, 228);
+    background-color: rebeccapurple;
 }
 
 p {
@@ -70,7 +70,7 @@ p {
 
 .container-nutrition {
     text-align: center;
-    color: rgb(85, 108, 119);
+    color: rebeccapurple;
 }
 
 .container-footer {
@@ -104,7 +104,7 @@ button :any-link  {
 }
 
 button :hover {
-    background-color:rgb(185, 214, 228);
+    background-color:rebeccapurple;
     color: white;
     
 }

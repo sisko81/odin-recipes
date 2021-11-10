@@ -125,4 +125,9 @@ ul {
 .links {
   padding-left: 16px;
 }
+
+img {
+  border: rebeccapurple 2px solid;
+  border-radius: 40%;
+}
  
